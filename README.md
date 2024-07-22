@@ -12,3 +12,6 @@ Both directly downloaded from grass \
 1216fa71e80f7e4ad3e9591fbd61a984  grass_4.26.0_amd64.deb \
 d0421b6b1bd5a062355e80dba01b8823  Grass_4.26.0_x64-setup.exe \
 7858ef9d3e943a2bc942665ab146eb61  Grass_4.26.0_aarch64.dmg 
+
+## Check for Authenticity
+[https://customer.appesteem.com/certified?vendor=GRASS](https://customer.appesteem.com/certified?vendor=GRASS)
