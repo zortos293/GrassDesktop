@@ -15,3 +15,7 @@ d0421b6b1bd5a062355e80dba01b8823  Grass_4.26.0_x64-setup.exe \
 
 ## Check for Authenticity
 [https://customer.appesteem.com/certified?vendor=GRASS](https://customer.appesteem.com/certified?vendor=GRASS)
+
+Compare the md5 hashes
+![image](https://github.com/user-attachments/assets/d15994c4-2166-46fa-84c1-41167e9110e8)
+
