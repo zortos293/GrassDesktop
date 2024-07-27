@@ -1,6 +1,7 @@
 # GrassDesktop
 Installers for Windows and Linux
-
+## Fix for linux
+use [https://github.com/loopyd/install-grass](https://github.com/loopyd/install-grass)
 
 ## Please Star this repo so it gets higher in search results
 
